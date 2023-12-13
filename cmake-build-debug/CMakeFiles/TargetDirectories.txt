@@ -1,3 +1,0 @@
-/Users/nikolaygs/CLionProjects/SDA_ShotestPath/cmake-build-debug/CMakeFiles/SDA_ShotestPath.dir
-/Users/nikolaygs/CLionProjects/SDA_ShotestPath/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/nikolaygs/CLionProjects/SDA_ShotestPath/cmake-build-debug/CMakeFiles/rebuild_cache.dir
